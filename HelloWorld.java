@@ -18,6 +18,7 @@ public class HelloWorld
 		System.out.println("Hello World!");
 		Apple a=new Apple();
 		
+		System.out.println();
 		System.out.println(a.i);
 	}
 }
