@@ -19,5 +19,8 @@ public class HelloWorld
 		Apple a=new Apple();
 		
 		System.out.println(a.i);
+		
+		int []array=new int [10];
+		for (int i:array)System.out.println(i);
 	}
 }
